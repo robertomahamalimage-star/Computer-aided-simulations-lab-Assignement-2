@@ -27,3 +27,7 @@ Both tests use the same Beta(2, 2) sample and a 5% significance level per test.
 The simulation prints both decisions. Exit code 0 means neither test rejected its null hypothesis, 1 means a test rejected, and 2 indicates invalid input or an inconclusive runs test. Different seeds can yield a rejection even for a correct generator.
 
 The regression suite checks generator moments, parameter boundaries, and the compound Poisson probability of zero. Its validation controls include uniform quantiles, a sorted Beta sample with the original empirical CDF, and an alternating sequence.
+
+## Lab 6 – Modelling a commercial and entertainment complex
+
+The second simulation follows visitors from arrival by car to departure through the payment gates. It compares three capacity changes and measures how scarce tables block ordering counters. [Model, results, and run instructions](lab6/README.md)
