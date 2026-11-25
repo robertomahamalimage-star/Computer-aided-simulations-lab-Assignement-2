@@ -31,3 +31,5 @@ The regression suite checks generator moments, parameter boundaries, and the com
 ## Lab 6 – Modelling a commercial and entertainment complex
 
 The second simulation follows visitors from arrival by car to departure through the payment gates. It compares three capacity changes and measures how scarce tables block ordering counters. [Model, results, and run instructions](lab6/README.md)
+
+The Lab 7 second report explains the future event set and compares how each expansion affects admissions and waiting times. [Read the second report](second_report_lab7.md)
